@@ -1,0 +1,18 @@
+{
+  "name": "Titan OS",
+  "short_name": "TitanOS",
+  "description": "Your personal habit and wellness tracking system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0e27",
+  "theme_color": "#0a0e27",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
